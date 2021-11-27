@@ -1,1 +1,1 @@
-# Data-Structure-Lab-2.1-
+# Codes of Data Structure course (2.1)
